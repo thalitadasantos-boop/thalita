@@ -1,0 +1,10 @@
+:root{ 
+    /* CSS HEX */
+--verde: #d8e2dcff;
+--bege: #ffe5d9ff;
+--rosa: #ffcad4ff;
+--rosa: #f4acb7ff;
+}
+body{
+    background-color: var(--rosa);
+}
